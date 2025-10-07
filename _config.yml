@@ -1,0 +1,99 @@
+---
+booktitle: 'Proceedings of the 2nd ECAI Workshop on "Machine Learning Meets Differential
+  Equations: From Theory to Applications"'
+shortname: ML-DE
+volume: '277'
+year: '2025'
+start: &1 2025-10-26
+end: 2025-10-26
+published: 2025-10-07
+conference_number: '2'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MLDE2025
+month: 0
+cycles: false
+bibtex_editor: Coelho, Cec\'{\i}lia and Zimmering, Bernd and Costa, M. Fernanda P.
+  and Ferr\'{a}s, Lu\'{\i}s L. and Niggemann, Oliver
+editor:
+- given: Cecı́lia
+  family: Coelho
+- given: Bernd
+  family: Zimmering
+- given: M. Fernanda P.
+  family: Costa
+- given: Luı́s L.
+  family: Ferrás
+- given: Oliver
+  family: Niggemann
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 2nd ECAI Workshop on "Machine Learning Meets Differential Equations: From Theory to Applications"
+    Held in University of Bologna - The Engineering School, Bologna, Italy on 26 October 2025
+
+  Published as Volume 277 by the Proceedings of Machine Learning Research on 07 October 2025.
+
+  Volume Edited by:
+    Cecı́lia Coelho
+    Bernd Zimmering
+    M. Fernanda P. Costa
+    Luı́s L. Ferrás
+    Oliver Niggemann
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 26 Oct
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v277"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v277
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v277
+email: ''
+conference:
+  name: 'ECAI Workshop on Machine Learning Meets Differential Equations: From Theory
+    to Applications'
+  url: https://mlde-ecai-2025.github.io
+  location: University of Bologna - The Engineering School, Bologna, Italy
+  dates:
+  - *1
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: mlde2025_cleaned_clean.bib
+# Site settings
+# Original source:  mlde2025_cleaned_clean.bib
