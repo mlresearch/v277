@@ -4,7 +4,7 @@ booktitle: 'Proceedings of the 2nd ECAI Workshop on "Machine Learning Meets Diff
 shortname: ML-DE
 volume: '277'
 year: '2025'
-start: &1 2025-10-26
+start: 2025-10-26
 end: 2025-10-26
 published: 2025-10-07
 conference_number: '2'
@@ -81,7 +81,7 @@ conference:
   url: https://mlde-ecai-2025.github.io
   location: University of Bologna - The Engineering School, Bologna, Italy
   dates:
-  - *1
+  - 2025-10-26
 analytics:
   google:
     tracking_id: UA-92432422-1
